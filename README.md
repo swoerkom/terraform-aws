@@ -1,4 +1,4 @@
-# terraform-aws
+# Terraform AWS settings
 
 Used Terraform to automate process of running chosen AMI on AWS. 
 
