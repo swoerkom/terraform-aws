@@ -12,4 +12,5 @@ Settings to spin up AWS:
 - Keypair 
 
 To run:
+
 `terraform apply`
