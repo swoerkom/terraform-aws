@@ -9,5 +9,5 @@ Settings to spin up AWS:
 - Private and Public Subnets
 - Private and Public Instances
 - Configured security groups 
-- Chosen Keypair 
+- Keypair 
 
