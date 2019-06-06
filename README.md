@@ -11,3 +11,5 @@ Settings to spin up AWS:
 - Configured security groups 
 - Keypair 
 
+To run:
+'terraform apply' 
