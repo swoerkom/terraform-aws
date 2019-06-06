@@ -13,4 +13,7 @@ Settings to spin up AWS:
 
 To run:
 
+`terraform init`
+
+
 `terraform apply`
